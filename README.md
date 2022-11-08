@@ -1,11 +1,22 @@
-[![banner](assets/images/banner.gif)](https://www.linkedin.com/in/vmlujanjr/)
+<h1 style='font-weight: bold;' align='center'>
+Welcome
+</h1>
 
-# About
-Hi, I'm Victor.
+*Bien venidos!* If you are an **employer** considering to extend a job offer, a **recruiter** in search of talent, or a fellow **developer** with a brilliant idea, you are all equally welcome to reach out to me!  
 
-I'm a cybernatic warrior 🤖 on my spare time, and a professional web developer by day.
+> [LinkedIn](https://www.linkedin.com/in/vmlujanjr/)  
+> [Portfolio](https://vmlujanjr.vercel.app/)  
 
-# Education
+<h1 style='text-align: center; font-weight: bold;'>
+About
+</h1>
+
+*Mi nombre es* **Victor**! I am a bilingual fullstack web developer that enjoys to code on projects 👨‍💻
+
+<h1 style='text-align: center; font-weight: bold;'>
+Education
+</h1>
+
 > **Bachelor of Arts**  
 > *Political Science & Criminal Justice*  
 > Texas A&M International University  
@@ -33,5 +44,8 @@ I'm a cybernatic warrior 🤖 on my spare time, and a professional web developer
 > > - MERN
 > > - State
 
-# Resume
-![resume](assets/images/resume.png)
+<h1 style='text-align: center; font-weight: bold;'>
+Technology
+</h1>
+
+[![banner](assets/images/banner.gif)](https://www.linkedin.com/in/vmlujanjr/)
