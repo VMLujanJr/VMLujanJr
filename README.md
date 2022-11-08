@@ -4,18 +4,20 @@ Welcome
 
 *Bien venidos!* If you are an **employer** considering to extend a job offer, a **recruiter** in search of talent, or a fellow **developer** with a brilliant idea, you are all equally welcome to reach out to me!  
 
-> [LinkedIn](https://www.linkedin.com/in/vmlujanjr/)  
-> [Portfolio](https://vmlujanjr.vercel.app/)  
+[![Portfolio](https://img.shields.io/badge/my-portfolio-lightgrey?style=for-the-badge)](https://vmlujanjr.vercel.app/)
+[![Resume](https://img.shields.io/badge/my-resume-green?style=for-the-badge)](https://drive.google.com/file/d/1BWV-UVg0WKeqpTIT8HTKvrcJ6F-1EHg-/view?usp=share_link)
+[![LinkedIn](https://img.shields.io/badge/%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vmlujanjr/)
 
 <h1 style='font-weight: bold;' align='center'>
 About
 </h1>
 
-*Mi nombre es* **Victor**! I am a bilingual fullstack web developer that enjoys to code on projects 👨‍💻.  
+*Mi nombre es* **Victor**! I am a bilingual fullstack web developer.  
 
 Things I enjoy
 > Food 🍕  
 > Movies 🍿  
+> Games 🎮
 
 <h1 style='font-weight: bold;' align='center'>
 Education
