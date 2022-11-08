@@ -7,13 +7,17 @@ Welcome
 > [LinkedIn](https://www.linkedin.com/in/vmlujanjr/)  
 > [Portfolio](https://vmlujanjr.vercel.app/)  
 
-<h1 style='text-align: center; font-weight: bold;'>
+<h1 style='font-weight: bold;' align='center'>
 About
 </h1>
 
-*Mi nombre es* **Victor**! I am a bilingual fullstack web developer that enjoys to code on projects 👨‍💻
+*Mi nombre es* **Victor**! I am a bilingual fullstack web developer that enjoys to code on projects 👨‍💻.  
 
-<h1 style='text-align: center; font-weight: bold;'>
+Things I enjoy
+> Food 🍕  
+> Movies 🍿  
+
+<h1 style='font-weight: bold;' align='center'>
 Education
 </h1>
 
@@ -44,7 +48,7 @@ Education
 > > - MERN
 > > - State
 
-<h1 style='text-align: center; font-weight: bold;'>
+<h1 style='font-weight: bold;' align='center'>
 Technology
 </h1>
 
