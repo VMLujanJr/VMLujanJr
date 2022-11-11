@@ -1,3 +1,4 @@
+![welcome](assets/images/welcome.png)
 <h1 style='font-weight: bold;' align='center'>
 Welcome
 </h1>
