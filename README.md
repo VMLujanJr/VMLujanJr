@@ -2,11 +2,15 @@
 Welcome
 </h1>
 
-*Bien venidos!* If you are an **employer** considering to extend a job offer, a **recruiter** in search of talent, or a fellow **developer** with a brilliant idea, you are all equally welcome to reach out to me!  
+*Bien venidos!* If you are an **employer** considering to extend a job offer, a **recruiter** in search of talent, or a fellow **developer** with a brilliant idea, you are all equally welcome to reach out to me! aws 
+
+<div style='font-weight: bold;' align='center'>
 
 [![Portfolio](https://img.shields.io/badge/my-portfolio-lightgrey?style=for-the-badge)](https://vmlujanjr.vercel.app/)
 [![Resume](https://img.shields.io/badge/my-resume-green?style=for-the-badge)](https://drive.google.com/file/d/1BWV-UVg0WKeqpTIT8HTKvrcJ6F-1EHg-/view?usp=share_link)
 [![LinkedIn](https://img.shields.io/badge/%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vmlujanjr/)
+
+</div>
 
 <h1 style='font-weight: bold;' align='center'>
 About
